@@ -1,2 +1,2 @@
 # ticTacToe-java
-a terminal based Tic Tac Toe game written in basic java 
+a console/terminal based Tic Tac Toe game (player vs player) written using arrays in java  
